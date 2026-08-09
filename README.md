@@ -31,4 +31,16 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Anjali875/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anjali875/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anjali875/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Anjali875/Leetcode-problems/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Anjali875/Leetcode-problems/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Anjali875/Leetcode-problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
