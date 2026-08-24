@@ -63,4 +63,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Anjali875/Leetcode-problems/tree/master/0015-3sum) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Anjali875/Leetcode-problems/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Anjali875/Leetcode-problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
