@@ -40,15 +40,18 @@
 | [0015-3sum](https://github.com/Anjali875/Leetcode-problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anjali875/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anjali875/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anjali875/Leetcode-problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjali875/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anjali875/Leetcode-problems/tree/master/0015-3sum) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anjali875/Leetcode-problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjali875/Leetcode-problems/tree/master/0011-container-with-most-water) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anjali875/Leetcode-problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +68,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Anjali875/Leetcode-problems/tree/master/0015-3sum) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anjali875/Leetcode-problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
 | ------- |
