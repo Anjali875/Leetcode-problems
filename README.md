@@ -40,12 +40,14 @@
 | [0015-3sum](https://github.com/Anjali875/Leetcode-problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anjali875/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anjali875/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anjali875/Leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anjali875/Leetcode-problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjali875/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anjali875/Leetcode-problems/tree/master/0015-3sum) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anjali875/Leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anjali875/Leetcode-problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Anjali875/Leetcode-problems/tree/master/0015-3sum) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anjali875/Leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anjali875/Leetcode-problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
@@ -75,8 +78,13 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Anjali875/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anjali875/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0278-first-bad-version](https://github.com/Anjali875/Leetcode-problems/tree/master/0278-first-bad-version) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anjali875/Leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Anjali875/Leetcode-problems/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anjali875/Leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
