@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anjali875/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [3498-reverse-degree-of-a-string](https://github.com/Anjali875/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anjali875/Leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Anjali875/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
