@@ -42,6 +42,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anjali875/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anjali875/Leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anjali875/Leetcode-problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anjali875/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Anjali875/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anjali875/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
