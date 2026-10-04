@@ -40,6 +40,7 @@
 | [0015-3sum](https://github.com/Anjali875/Leetcode-problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anjali875/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anjali875/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Anjali875/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anjali875/Leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anjali875/Leetcode-problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anjali875/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anjali875/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Anjali875/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
