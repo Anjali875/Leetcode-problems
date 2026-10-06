@@ -103,6 +103,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Anjali875/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anjali875/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sliding Window
 |  |
