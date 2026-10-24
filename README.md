@@ -41,6 +41,7 @@
 | [0015-3sum](https://github.com/Anjali875/Leetcode-problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anjali875/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anjali875/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Anjali875/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Anjali875/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anjali875/Leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anjali875/Leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anjali875/Leetcode-problems/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Anjali875/Leetcode-problems/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Anjali875/Leetcode-problems/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/Anjali875/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anjali875/Leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anjali875/Leetcode-problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
