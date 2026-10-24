@@ -69,6 +69,7 @@
 | [0020-valid-parentheses](https://github.com/Anjali875/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali875/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anjali875/Leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2409-count-days-spent-together](https://github.com/Anjali875/Leetcode-problems/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anjali875/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Anjali875/Leetcode-problems/tree/master/0009-palindrome-number) |
+| [2409-count-days-spent-together](https://github.com/Anjali875/Leetcode-problems/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anjali875/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sliding Window
 |  |
