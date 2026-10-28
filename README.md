@@ -52,12 +52,14 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjali875/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anjali875/Leetcode-problems/tree/master/0015-3sum) |
+| [0680-valid-palindrome-ii](https://github.com/Anjali875/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anjali875/Leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anjali875/Leetcode-problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjali875/Leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/Anjali875/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali875/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anjali875/Leetcode-problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anjali875/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0680-valid-palindrome-ii](https://github.com/Anjali875/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali875/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anjali875/Leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2409-count-days-spent-together](https://github.com/Anjali875/Leetcode-problems/tree/master/2409-count-days-spent-together) |
