@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anjali875/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Anjali875/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0680-valid-palindrome-ii](https://github.com/Anjali875/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali875/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anjali875/Leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
